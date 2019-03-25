@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="261px" height="70px" viewBox="0 0 261 70" style="overflow:visible;enable-background:new 0 0 261 70;"
+	 xml:space="preserve" preserveAspectRatio="xMinYMid meet">
+<defs>
+</defs>
+<radialGradient id="SVGID_1_" cx="138.2432" cy="48.0928" r="123.3346" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FAAF40"/>
+	<stop  offset="4.321454e-02" style="stop-color:#F9A538"/>
+	<stop  offset="0.1116" style="stop-color:#F89D31"/>
+	<stop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<stop  offset="0.5276" style="stop-color:#F7922D"/>
+	<stop  offset="1" style="stop-color:#F37B28"/>
+	<a:midPointStop  offset="0" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.1982" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="0.6064" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="1" style="stop-color:#F37B28"/>
+</radialGradient>
+<path style="fill:url(#SVGID_1_);" d="M62.4,65.2V42.4c0-4.8-2-7.2-5.9-7.2c-3.9,0-5.9,2.4-5.9,7.2v22.8H38.9V42.4
+	c0-4.8-1.9-7.2-5.8-7.2c-3.9,0-5.9,2.4-5.9,7.2v22.8H15.6V41.1c0-5,1.7-8.7,5.2-11.3c3-2.3,7.2-3.4,12.3-3.4c5.3,0,9.1,1.3,11.6,4
+	c2.1-2.7,6-4,11.7-4c5.2,0,9.3,1.1,12.3,3.4c3.5,2.6,5.2,6.3,5.2,11.3v24.2H62.4z"/>
+<radialGradient id="SVGID_2_" cx="138.2432" cy="48.0928" r="123.3347" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FAAF40"/>
+	<stop  offset="4.321454e-02" style="stop-color:#F9A538"/>
+	<stop  offset="0.1116" style="stop-color:#F89D31"/>
+	<stop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<stop  offset="0.5276" style="stop-color:#F7922D"/>
+	<stop  offset="1" style="stop-color:#F37B28"/>
+	<a:midPointStop  offset="0" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.1982" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="0.6064" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="1" style="stop-color:#F37B28"/>
+</radialGradient>
+<path style="fill:url(#SVGID_2_);" d="M96,66.2c-5.9,0-10.7-1.9-14.6-5.6c-3.8-3.7-5.8-8.5-5.8-14.4c0-5.9,1.9-10.7,5.8-14.4
+	c3.8-3.7,8.7-5.6,14.6-5.6c5.9,0,10.8,1.9,14.6,5.6c3.9,3.7,5.8,8.5,5.8,14.4c0,5.9-1.9,10.7-5.8,14.4
+	C106.7,64.3,101.8,66.2,96,66.2z M96,35.5c-2.8,0-5,1.1-6.5,3.2c-1.5,2.1-2.3,4.6-2.3,7.6c0,2.9,0.7,5.4,2.1,7.4
+	c1.6,2.3,3.8,3.4,6.6,3.4c2.8,0,5-1.1,6.6-3.4c1.5-2,2.2-4.5,2.2-7.4c0-2.9-0.7-5.4-2.1-7.4C101.1,36.6,98.8,35.5,96,35.5z"/>
+<radialGradient id="SVGID_3_" cx="138.2432" cy="48.0928" r="123.3348" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FAAF40"/>
+	<stop  offset="4.321454e-02" style="stop-color:#F9A538"/>
+	<stop  offset="0.1116" style="stop-color:#F89D31"/>
+	<stop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<stop  offset="0.5276" style="stop-color:#F7922D"/>
+	<stop  offset="1" style="stop-color:#F37B28"/>
+	<a:midPointStop  offset="0" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.1982" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="0.6064" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="1" style="stop-color:#F37B28"/>
+</radialGradient>
+<path style="fill:url(#SVGID_3_);" d="M138,66.2c-5.9,0-10.7-1.9-14.6-5.6c-3.8-3.7-5.8-8.5-5.8-14.4c0-5.9,1.9-10.7,5.8-14.4
+	c3.8-3.7,8.7-5.6,14.6-5.6c5.9,0,10.8,1.9,14.6,5.6c3.9,3.7,5.8,8.5,5.8,14.4c0,5.9-1.9,10.7-5.8,14.4
+	C148.7,64.3,143.8,66.2,138,66.2z M138,35.5c-2.8,0-5,1.1-6.5,3.2c-1.5,2.1-2.3,4.6-2.3,7.6c0,2.9,0.7,5.4,2.1,7.4
+	c1.6,2.3,3.8,3.4,6.6,3.4c2.8,0,5-1.1,6.6-3.4c1.5-2,2.2-4.5,2.2-7.4c0-2.9-0.7-5.4-2.1-7.4C143.1,36.6,140.8,35.5,138,35.5z"/>
+<radialGradient id="SVGID_4_" cx="138.2427" cy="48.0928" r="123.3356" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FAAF40"/>
+	<stop  offset="4.321454e-02" style="stop-color:#F9A538"/>
+	<stop  offset="0.1116" style="stop-color:#F89D31"/>
+	<stop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<stop  offset="0.5276" style="stop-color:#F7922D"/>
+	<stop  offset="1" style="stop-color:#F37B28"/>
+	<a:midPointStop  offset="0" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.1982" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="0.6064" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="1" style="stop-color:#F37B28"/>
+</radialGradient>
+<path style="fill:url(#SVGID_4_);" d="M189.8,65.1v-3.8c-1,1.4-2.8,2.5-5.3,3.3c-2.2,0.8-4.3,1.1-6.3,1.1c-5.5,0-10-1.9-13.3-5.7
+	c-3.4-3.8-5-8.5-5-14.1c0-5.5,1.6-10.2,4.9-13.9c3.3-3.7,7.7-5.6,13.1-5.6c6.2,0,10.1,1.7,11.9,5V0h11.3v65.1H189.8z M189.8,43.5
+	c0-2.1-1-4.1-3-6c-2-1.9-4-2.9-6.1-2.9c-3,0-5.3,1.2-7.1,3.6c-1.5,2.1-2.3,4.8-2.3,7.9c0,3,0.8,5.6,2.3,7.8c1.7,2.5,4.1,3.7,7.1,3.7
+	c1.8,0,3.7-0.8,5.9-2.5c2.1-1.7,3.2-3.4,3.2-5.2V43.5z"/>
+<radialGradient id="SVGID_5_" cx="138.2437" cy="48.0928" r="123.3342" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FAAF40"/>
+	<stop  offset="4.321454e-02" style="stop-color:#F9A538"/>
+	<stop  offset="0.1116" style="stop-color:#F89D31"/>
+	<stop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<stop  offset="0.5276" style="stop-color:#F7922D"/>
+	<stop  offset="1" style="stop-color:#F37B28"/>
+	<a:midPointStop  offset="0" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.1982" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="0.6064" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="1" style="stop-color:#F37B28"/>
+</radialGradient>
+<path style="fill:url(#SVGID_5_);" d="M205.2,65.1V0h11.6v65.1H205.2z"/>
+<radialGradient id="SVGID_6_" cx="138.2427" cy="48.0928" r="123.335" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FAAF40"/>
+	<stop  offset="4.321454e-02" style="stop-color:#F9A538"/>
+	<stop  offset="0.1116" style="stop-color:#F89D31"/>
+	<stop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<stop  offset="0.5276" style="stop-color:#F7922D"/>
+	<stop  offset="1" style="stop-color:#F37B28"/>
+	<a:midPointStop  offset="0" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.1982" style="stop-color:#FAAF40"/>
+	<a:midPointStop  offset="0.2269" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="0.6064" style="stop-color:#F89A2F"/>
+	<a:midPointStop  offset="1" style="stop-color:#F37B28"/>
+</radialGradient>
+<path style="fill:url(#SVGID_6_);" d="M230.7,49.7c0.5,2.4,1.7,4.4,3.5,6.1c1.9,1.7,3.9,2.6,6.2,2.6c1.6,0,3.3-0.4,5.2-1.2
+	c2.3-1,3.4-2.1,3.4-3.4l12.2-0.1c-1.7,4.1-4.7,7.3-8.8,9.5c-3.9,2.1-8.1,3.2-12.8,3.2c-5.9,0-10.9-1.9-14.8-5.5
+	c-3.9-3.7-5.9-8.5-5.9-14.5c0-6.2,2-11,5.9-14.7c3.9-3.6,9-5.4,15.2-5.4c6.8,0,12.1,2.2,15.9,6.7c3.5,4.1,5.3,9.7,5.3,16.7H230.7z
+	 M249.7,42.5c-0.5-2.5-1.5-4.5-3.1-6.1c-1.8-1.7-3.9-2.6-6.2-2.6c-2.4,0-4.4,0.8-6.1,2.5c-1.6,1.7-2.7,3.7-3.3,6.2H249.7z"/>
+<path style="fill:#58595B;" d="M16.7,32.2c-0.4,2-0.8,4-1.2,6c11,3.7,21.4,0.1,26.9-9.5C34.3,23.1,26.8,28.8,16.7,32.2"/>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="15.5879" y1="31.877" x2="41.8486" y2="31.877">
+	<stop  offset="0" style="stop-color:#929497"/>
+	<stop  offset="0.1245" style="stop-color:#757578"/>
+	<stop  offset="0.2792" style="stop-color:#575658"/>
+	<stop  offset="0.4403" style="stop-color:#403E3F"/>
+	<stop  offset="0.6085" style="stop-color:#302D2E"/>
+	<stop  offset="0.7884" style="stop-color:#262223"/>
+	<stop  offset="1" style="stop-color:#231F20"/>
+	<a:midPointStop  offset="0" style="stop-color:#929497"/>
+	<a:midPointStop  offset="0.2606" style="stop-color:#929497"/>
+	<a:midPointStop  offset="1" style="stop-color:#231F20"/>
+</linearGradient>
+<path style="fill:url(#SVGID_7_);" d="M16.7,30.7c-0.4,2.3-0.7,4.5-1.1,6.8c10.5,3.6,20.8,0.5,26.3-8.9
+	C34.9,20.5,27.1,27.2,16.7,30.7"/>
+<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="20.6187" y1="23.1113" x2="31.5222" y2="38.6832">
+	<stop  offset="0" style="stop-color:#231F20"/>
+	<stop  offset="1" style="stop-color:#231F20;stop-opacity:0"/>
+	<a:midPointStop  offset="0" style="stop-color:#231F20"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#231F20"/>
+	<a:midPointStop  offset="1" style="stop-color:#231F20;stop-opacity:0"/>
+</linearGradient>
+<path style="fill:url(#SVGID_8_);" d="M29.2,33.4c-4.8-1-10,1.5-13.6,4.1c-2.3-16.8,8.1-16.4,21.7-12.2c-0.9,4.1-2.4,9.6-5,12.9
+	C32.2,36,31.2,34.5,29.2,33.4"/>
+<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="1.167" y1="23.5879" x2="49.166" y2="23.5879">
+	<stop  offset="0" style="stop-color:#929497"/>
+	<stop  offset="0.1245" style="stop-color:#757578"/>
+	<stop  offset="0.2792" style="stop-color:#575658"/>
+	<stop  offset="0.4403" style="stop-color:#403E3F"/>
+	<stop  offset="0.6085" style="stop-color:#302D2E"/>
+	<stop  offset="0.7884" style="stop-color:#262223"/>
+	<stop  offset="1" style="stop-color:#231F20"/>
+	<a:midPointStop  offset="0" style="stop-color:#929497"/>
+	<a:midPointStop  offset="0.2606" style="stop-color:#929497"/>
+	<a:midPointStop  offset="1" style="stop-color:#231F20"/>
+</linearGradient>
+<path style="fill:url(#SVGID_9_);" d="M1.2,30.7c17.6-10.6,27.5-12.6,48-14.7C25.4,34.8,24.8,30.7,1.2,30.7"/>
+<line style="fill:#383738;stroke:#4A4A4C;stroke-width:0.5;" x1="49.2" y1="16.1" x2="30.3" y2="29.8"/>
+<path style="opacity:0.23;fill:#231F20;" d="M26.7,23.4C26.9,25.6,26.4,21.3,26.7,23.4"/>
+<line style="fill:#FFFFFF;stroke:#A8ABAD;stroke-width:0.5;" x1="1.2" y1="30.7" x2="30.3" y2="29.8"/>
+<path style="display:none;fill:none;stroke:#F16922;stroke-width:0.5;" d="M24.9,23.6C12.9,26.9-2.7,25.8,1.5,42"/>
+<path style="display:none;fill:#F16922;" d="M2.6,55.7c-1.8-4.5-4-9.5-1.4-15.7C2.9,45.8,2.6,50.2,2.6,55.7"/>
+<path style="fill:none;stroke:#F16922;stroke-width:0.5;" d="M24.9,23.6c-5,1.4-21.4,5-21.6,7.1c-0.5,3.9-0.1,10.1-0.1,10.1"/>
+<path style="fill:#F16922;" d="M4.7,55.7c-1.8-4.5-4-9.5-1.4-15.7C5,45.8,4.7,50.2,4.7,55.7"/>
+<ellipse transform="matrix(0.942 -0.3356 0.3356 0.942 -6.4098 9.4684)" style="fill:#6D6E70;" cx="24.2" cy="23.3" rx="0.8" ry="0.4"/>
+</svg>
+œ÷.Ô­      \˜ª\˜ª@/»É]Oó   H    :https://c2.etf.unsa.ba/theme/image.php/boost/core/1543312098/moodlelogo necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Mon, 25 Mar 2019 10:09:55 GMT
+Content-Type: image/svg+xml
+X-Powered-By: PHP/7.0.10
+Etag: "66dc46ce4e2191fec6821c9292cbb3bb9fd37fb9"
+Content-Disposition: inline; filename="moodlelogo.svg"
+Last-Modified: Tue, 27 Nov 2018 09:48:32 GMT
+Expires: Sun, 23 Jun 2019 10:09:55 GMT
+Cache-Control: public, max-age=7776000, no-transform, immutable
+Accept-Ranges: none
+Front-End-Https: on
+ original-response-headers Server: nginx/1.10.3 (Ubuntu)
+Date: Mon, 25 Mar 2019 10:09:55 GMT
+Content-Type: image/svg+xml
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.0.10
+Etag: "66dc46ce4e2191fec6821c9292cbb3bb9fd37fb9"
+Content-Disposition: inline; filename="moodlelogo.svg"
+Last-Modified: Tue, 27 Nov 2018 09:48:32 GMT
+Expires: Sun, 23 Jun 2019 10:09:55 GMT
+Pragma: 
+Cache-Control: public, max-age=7776000, no-transform, immutable
+Accept-Ranges: none
+Front-End-Https: on
+ net-response-time-onstart 122 net-response-time-onstop 123   )e

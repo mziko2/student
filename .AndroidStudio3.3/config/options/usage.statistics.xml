@@ -1,0 +1,39 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="Run" count="2" />
+    </counts>
+  </component>
+  <component name="FUSApplicationUsageTrigger">
+    <session id="655482535">
+      <usages-collector id="statistics.lifecycle.app">
+        <counts>
+          <entry key="ide.close" value="1" />
+          <entry key="ide.freeze.10" value="1" />
+          <entry key="ide.freeze.13" value="1" />
+          <entry key="ide.start" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="ToolWindowCollector">
+    <counts>
+      <entry toolWindow="Assistant by Activation" count="2" />
+      <entry toolWindow="Project by Activation" count="1" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Run@NavBarToolbar" count="2" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="1" />
+      <entry feature="StripeButton[Android Profiler].shown" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="2" />
+      <entry feature="ideaapp.started" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

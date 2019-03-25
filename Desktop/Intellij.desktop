@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Intellij
+Comment=
+Exec=./idea.sh
+Icon=/media/etf-1-11/data/tools/idea-IC-183.5912.21/bin/idea.png
+Path=/media/etf-1-11/data/tools/idea-IC-183.5912.21/bin
+Terminal=false
+StartupNotify=false

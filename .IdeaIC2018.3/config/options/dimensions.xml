@@ -1,0 +1,24 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="805" y="221" />
+    <location key="new project wizard.0.0.1920.1080" x="600" y="69" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="961" y="465" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="653" y="379" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="840" y="854" />
+    <location key="SettingsEditor.0.0.1920.1080" x="0" y="200" />
+    <location key="Github.ShareDialog.0.0.1920.1080" x="815" y="456" />
+    <location key="Github.UntrackedFilesDialog.0.0.1920.1080" x="647" y="255" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="518" y="136" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="426" height="479" />
+    <size key="new project wizard.0.0.1920.1080" width="844" height="789" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="196" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1874" height="282" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1874" height="282" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1874" height="282" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1874" height="282" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1014" height="700" />
+    <size key="Github.ShareDialog.0.0.1920.1080" width="281" height="189" />
+    <size key="Github.UntrackedFilesDialog.0.0.1920.1080" width="617" height="591" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="875" height="828" />
+  </component>
+</application>

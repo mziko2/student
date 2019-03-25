@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Android Studio
+Comment=
+Exec=./studio.sh
+Icon=/media/etf-1-11/data/tools/android-studio/bin/studio.png
+Path=/media/etf-1-11/data/tools/android-studio/bin/
+Terminal=false
+StartupNotify=false

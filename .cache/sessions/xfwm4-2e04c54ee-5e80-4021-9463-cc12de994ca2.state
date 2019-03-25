@@ -1,0 +1,13 @@
+[CLIENT] 0x3800003
+  [CLIENT_ID] 295476e4f-eb1d-48b8-a839-aa1b6f99025d
+  [CLIENT_LEADER] 0x3800001
+  [WINDOW_ROLE] xfce4-terminal-1551888428--1472798480
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - etf-1-11@etf111-Vostro-3670: /home/student
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (671,370,577,387)
+  [GEOMETRY-MAXIMIZED] (671,370,577,387)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000

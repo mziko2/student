@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=IntelliJ IDEA Community Edition
+Icon=/media/etf-1-11/data/tools/idea-IC-183.5912.21/bin/idea.svg
+Exec="/media/etf-1-11/data/tools/idea-IC-183.5912.21/bin/idea.sh" %f
+Comment=Capable and Ergonomic IDE for JVM
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-idea-ce
+OnlyShowIn=Old;
